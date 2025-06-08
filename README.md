@@ -10,6 +10,12 @@ The goal is to uncover trends, significant spikes, and patterns in Kenya’s deb
 
 ---
 
+## 📉 Sample Visualization
+
+![Debt-Gdp](Debt-Gdp.png)
+
+---
+
 ## 📊 Dataset Sources
 
 - **Public Debt Data**: Monthly domestic and external debt (2001–2023)  
