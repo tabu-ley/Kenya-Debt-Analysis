@@ -36,7 +36,7 @@ Combined year and month columns into a single datetime column.
 
 Set datetime as index to support time series analysis.
 
-Initial Exploration:
+## Initial Exploration:
 
 Plotted debt trends.
 
@@ -86,7 +86,7 @@ Add fiscal deficit data for a broader economic picture.
 ## How to Use
 Clone the repository:
 
-git clone https://github.com/your-username/kenya-debt-analysis.git
+git clone https://github.com/tabu-ley/Kenya-Debt-Analysis.git
 Open and run the Jupyter notebook or Python script:
 
 cd kenya-debt-analysis
