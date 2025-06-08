@@ -1,5 +1,6 @@
 # Kenya-Debt-Analysis
-Analyzing Kenya's Debt Trends (2001-2023) using python and pandas
+# Analyzing Kenya's Debt Trends (2001-2023) using python and pandas
+
 This is my first project. The project performs a comprehensive time series analysis of Kenya's public debt (both domestic and external) and its relationship with nominal GDP over a period of more than two decades.
 
 The aim is to uncover trends, significant spikes, and patterns in Kenya’s debt levels and compare them against national economic growth, particularly using GDP-to-debt ratio and percentage changes over time.
